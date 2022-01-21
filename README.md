@@ -9,7 +9,7 @@ frequently used in combination in a project.
 In our own work, we seek to bundle everything that should be referenced in the
 methods description of our scientific papers, thus ensuring complete technical
 reproducibility of the computational work.
-For a list of all available containers see [Catalog](.Catalog.md).
+For a list of all available containers see [CATALOG](./CATALOG.md).
 
 ## Usage
 Typical usage is illustrated below: setting up a workdir, acquiring the
