@@ -1,5 +1,5 @@
 # bgSingularityHub
-- a portal to our collection of [Apptainer/Singularity](https://apptainer.org/) definition and image files.
+... a portal to our collection of [Apptainer/Singularity](https://apptainer.org/) definition and image files.
 
 Usage assumes that you have [Apptainer/Singularity](https://apptainer.org/) installed on your system.
 Check whether there is package built for your system and install with a package manager.
