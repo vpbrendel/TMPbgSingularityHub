@@ -1,5 +1,9 @@
 # bgSingularityHub
-A portal to our collection of singularity definition and image files
+A portal to our collection of [Apptainer/Singularity](https://apptainer.org/) definition and image files
+Usage assumes that you have [Apptainer/Singularity](https://apptainer.org/) installed on your system.
+Check whether there is package built for your system and install with a package manager.
+Otherwise, follow the instructions to [install Singularity from source code](https://apptainer.org/user-docs/master/quick_start.html#quick-installation-steps).
+
 
 ## Scope
 We are a computational genomics group and support containers for software in
